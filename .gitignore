@@ -164,3 +164,4 @@ data/
 .swp
 $~*
 **/.DS_Store
+wandb/
