@@ -9,3 +9,4 @@ contractions
 transformers
 torch
 accelerate
+autofeat
