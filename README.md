@@ -13,7 +13,7 @@ Current systems relying on star ratings for product recommendations often prove 
 
 ## II. Flow
 
-![flow](./imgs/FAIR_flow.jpg)
+![flow](./imgs/fair_flow_diagram.jpg)
 
 ## III. Results
 
